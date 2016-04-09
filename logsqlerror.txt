@@ -1,0 +1,13 @@
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '";' WHERE steamid='76561197971059741'' at line 1
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');$db->query('UPDATE users SET tradeToken="https://steamcommunity.com/tradeoffer' at line 1
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"' WHERE steamid='76561197971059741'' at line 1
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"' WHERE steamid='76561197971059741'' at line 1
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''' at line 1
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''' at line 1
+
+

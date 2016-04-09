@@ -1,0 +1,1 @@
+<? echo "(̿▀̿ ̿Ĺ̯̿̿▀̿ ̿)̄Dont try to break in, b0y(̿▀̿ ̿Ĺ̯̿̿▀̿ ̿)̄<br><br>If you are a victim, please contact support team."; ?>
